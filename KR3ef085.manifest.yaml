@@ -23,9 +23,9 @@ assets:
   - {seq: 3, filename: KR3ef085_003.yaml, hash: 'sha256:1ff341e1baaf11c16c1c7e30712ea8a1540a90e210b914491689b36a9303bb61'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ef085_000.markers.yaml, hash: 'sha256:9eccf500c76f4508e3a2f20f8b6f77de064fbc0c7f0f2ad8772f71abebff660a'}
-  - {seq: 1, role: markers, filename: assets/KR3ef085_001.markers.yaml, hash: 'sha256:757049d0b445448fcd2b9fa5edfee89a571484f7b590f5c9ad8463a47a383819'}
-  - {seq: 2, role: markers, filename: assets/KR3ef085_002.markers.yaml, hash: 'sha256:9836cb403ae0ee3cafc5502ba66845f9565ec62bafefe1a603aa704426c1619a'}
-  - {seq: 3, role: markers, filename: assets/KR3ef085_003.markers.yaml, hash: 'sha256:7dfaa345eaadb5438a5c76b3b118cbc591d4289b4b31aabd2da5786949bc960a'}
+  - {seq: 1, role: markers, filename: assets/KR3ef085_001.markers.yaml, hash: 'sha256:8716dcb053b44c1541bbeae0092c357ef8dff3926d39d96b3829b6c783c68d1f'}
+  - {seq: 2, role: markers, filename: assets/KR3ef085_002.markers.yaml, hash: 'sha256:9c52e7cdbe089c8a5de7393a32edcead2cd3dfda3a1bab304119e9188e190809'}
+  - {seq: 3, role: markers, filename: assets/KR3ef085_003.markers.yaml, hash: 'sha256:5e29c4dac670d6df79af49ddf42530c9a5d23a0a1e00ad6ae2cc7219a599c3b0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -307,7 +307,7 @@ table_of_contents:
   label: 果實菜谷禁忌並治第二十五
   type: section
   level: 2
-hash: sha256:964a9e9bed8c2d5d7e69f8f073df2849b97cbee1a6dcd2cbcc85dc7e41341419
+hash: sha256:6cfe9a5d005203ba32e253dc38640792752ebfa5fbd1b784d1905d3314adc0c0
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
